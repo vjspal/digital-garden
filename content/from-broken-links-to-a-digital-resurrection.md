@@ -1,12 +1,8 @@
 ---
 title: "From Broken Links to a Digital Resurrection: 5 Counter-Intuitive Lessons from a Parish Transformation"
-date: 2026-09-04
-tags:
-- learning-in-public
-- - digital-transformation
-  - - nonprofit
-    - draft: true
-    - ---
+tags: [learning-in-public, digital-transformation, nonprofit]
+draft: true
+---
 
     Resurrection Catholic Missions of the South is a vital institution in Montgomery, Alabama — a rare intersection of four distinct mission areas: food security (a food bank), education (a K–8 school), disability care, and racial justice. These aren't just programs; they represent four distinct funder pools that make the mission's survival possible.
 
