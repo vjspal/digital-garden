@@ -1,4 +1,5 @@
 ---
+date: 2026-09-04
 title: "From Broken Links to a Digital Resurrection: 5 Counter-Intuitive Lessons from a Parish Transformation"
 tags: [learning-in-public, digital-transformation, nonprofit]
 draft: true
