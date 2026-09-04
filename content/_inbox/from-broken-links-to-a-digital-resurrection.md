@@ -1,0 +1,40 @@
+---
+title: "From Broken Links to a Digital Resurrection: 5 Counter-Intuitive Lessons from a Parish Transformation"
+date: 2026-09-03
+tags:
+  - learning-in-public
+  - rcm-south
+draft: true
+---
+
+### From Broken Links to a Digital Resurrection: 5 Counter-Intuitive Lessons from a Parish Transformation
+
+Resurrection Catholic Missions of the South is a vital institution in Montgomery, Alabama. It is a rare intersection of four distinct mission areas: food security (a food bank), education (a K–8 school), disability care (specialized programs for children and adults), and racial justice. These aren't just programs; they represent four distinct funder pools that make the mission’s survival possible.Yet, despite this profound impact, the digital presence recently resembled a ghost town. School enrollment was at an all-time low—a high-stakes crisis given Alabama’s "Choose Act," where $7,000 in student funding follows the child. If parents take those funds elsewhere, the mission’s financial backbone weakens. With a website plagued by broken giving links and a mobile interface that was functionally unusable, the mission faced a digital divide that threatened its very future.I returned to this institution not merely as a technical vendor, but as an alumnus who attended this school before moving to Japan. My goal was to bridge the gap between their ancient mission and a modern audience. Over a six-month revitalization roadmap, we moved away from vague, "interpretive" directions toward a phased, numbers-backed plan.Here are the five most surprising lessons learned from this digital resurrection.
+
+##### 1\. Stop Guessing—“Better” is a Metric, Not a Vibe
+
+In the early stages of a nonprofit digital overhaul, the most common request is for the website to "look better." However, aesthetics are subjective and often mask deeper functional failures. To move the needle for a mission that depends on donor trust and school enrollment, we had to stop guessing and start measuring.Phase 1 of our strategy (Sept 8–11) focused exclusively on "Baseline Capture." We installed Google Analytics 4 and Search Console to record performance before a single pixel was changed. We identified the  **Mobile Bounce Rate**  as the "one number that matters most." It was the original complaint from the parish office and the most legible indicator for non-technical staff to understand whether the site was actually serving its audience.**Core discipline:**  Every claim of improvement needs a baseline captured  *before*  the change. Baseline capture is Phase 1 and it is not skippable—miss it and the comparison is lost permanently.For a nonprofit, technical precision is an act of stewardship. By capturing a baseline, we ensured that every dollar and hour spent was an investment with a measurable return, rather than a shot in the dark.
+
+##### 2\. The Danger of Rented Real Estate (The Facebook Trap)
+
+One of the most significant risks we identified was the "Facebook Trap." The school’s content and audience lived almost entirely on a personal Facebook account belonging to the principal. This wasn't just a technical inefficiency; it was a severe governance risk. The principal had effectively blocked the parish’s own web content person, creating an institutional fragmentation that left the mission with zero control over its own narrative.This created two critical liabilities. First, it bypassed diocesan media release policies, putting the school at risk regarding the photos of minors. Second, it was "rented real estate." If the account were compromised or the platform’s algorithm shifted, the school’s connection to its audience would vanish overnight.Our solution was to build "Audience Capture Infrastructure" (Email and CRM) in Phase 3 before ramping up social media volume. By migrating followers to an email list and an official, parish-owned social account with shared administrative access, we regained institutional control. Framing this as "giving the principal better tools" rather than "taking control away" was the key to navigating the delicate political terrain.
+
+##### 3\. The “Manual Soak”—Why You Shouldn’t Automate a Mess
+
+It is tempting to jump straight into AI workflows and automated posting schedules. However, we made the strategic decision to delay automation for six weeks during the "Manual Soak Period" (Phase 5, Nov–Dec).The reasoning is simple: automating a pipeline before it exists in practice leads to automating the wrong thing. By posting manually across three distinct audience tracks—Facebook for elders and donors, Instagram for working parents, and TikTok for youth—the team could see what actually resonated with the community.Doing the work by hand reveals where the real friction points are. By manually repurposing Father’s homilies into short-form video and written posts, we learned the nuances of his voice. Once the manual process surfaced what was worth building, we moved to Phase 6 in January, where a single upload could produce scheduled, multi-platform output.
+
+##### 4\. Success is Defined by Your Absence
+
+The true measure of a project’s success is not the state of the website on the day the consultant leaves, but the state of the system three months later. If a system dies because the technical expert is no longer present, the project is a failure, regardless of the initial KPIs.In our roadmap, "Project Success" was redefined as a parish that can run its own communications independently. The deliverable was not just a mobile-responsive site, but a "trained editor" and a "named system owner" within the parish staff. To ensure sustainability, we built a library of reusable assets:
+
+* **A Content Machine:**  A transferable system for scheduled, multi-platform output.  
+* **AI Workflow Audit Templates:**  Tools to help the ministry automate operations like phone handling and scheduling without losing the personal touch.  
+* **Training Course:**  Course-quality Loom tutorials recorded by the staff themselves to prove retention and ease future onboarding.**Definition of success:**  If the system dies three months after handoff, the project failed regardless of what the metrics said in March.
+
+##### 5\. The Alumni Advantage—Skills Over Charity
+
+Returning to a childhood institution creates a unique dynamic. My connection as an alumnus opened the door, but professional-grade skills are what justified staying. I approached this work as an investment decision, not "charity confusion."There is a common technical misconception regarding "donated services." A professional strategist cannot deduct the market value of their time as "forgone income" on their taxes. As a pro-tip for fellow consultants: billing your full value and donating the cash back sounds noble, but it means you must pay income tax on that revenue first, which usually nets out worse for your bottom line.Instead, I focused on giving more value than the hourly rate strictly justified to build a documented, numbers-backed case study. This approach treats the nonprofit with the same rigor as a high-growth startup. By providing "documented proof of work," we created a tool the mission can now use to attract future funders across those four critical pools of food security, education, disability services, and racial justice.
+
+##### Conclusion: The Future of the Mission
+
+The transformation of Resurrection Catholic Missions was a move from "interpretive direction" to a structured, phased roadmap. By focusing on systems that survive handoff and metrics that matter, we have set the stage for a future where AI-assisted grant writing can serve this ancient mission.We look to models like "Auntie Gummy" in Montevallo, who successfully funds entire summer camps through aggressive grant writing. With our new content machine and data-backed success stories, the mission is now positioned to tap into those major funder pools with the same technical sophistication as any modern agency.As you look at your own projects—whether for a nonprofit or a business—ask yourself:  **Are you building a temporary fix, or a system that survives your departure?**  
