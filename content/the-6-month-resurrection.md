@@ -1,3 +1,4 @@
+---
 title: "The 6-Month Resurrection: Lessons in Digital Transformation from the Deep South"
 date: 2026-09-04
 tags: [learning-in-public, digital-transformation, nonprofit]
